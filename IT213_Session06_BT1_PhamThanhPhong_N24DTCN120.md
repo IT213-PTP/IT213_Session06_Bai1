@@ -6,7 +6,6 @@
 - **Môn học:** IT213 (Phát triển ứng dụng AI với Spring Boot)
 - **Session:** Session 06 - Bài tập 1
 - **Hệ sinh thái:** RIKKEI INTELLIGENT BANKING & ASSISTANT SUITE (RikkeiPay)
-- **GitHub Repository:** [IT213_Session06_BT1_PhamThanhPhong_N24DTCN120](https://github.com/IT213-PTP/IT213_Session06_BT1_PhamThanhPhong_N24DTCN120)
 
 ---
 
