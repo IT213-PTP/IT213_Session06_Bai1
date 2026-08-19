@@ -252,4 +252,4 @@ class TransferRequestValidationTest {
 
 1. **Hiệu quả phòng thủ:** Việc thiết kế DTO dưới dạng Java Record kết hợp Jakarta Bean Validation giúp chặn đứng 100% các dữ liệu sai lệch, rác hoặc ảo tưởng do LLM trích xuất trước khi gọi vào Core Banking Services.
 2. **Tuân thủ Chuẩn mực Doanh nghiệp:** Dữ liệu tiền tệ được chuẩn hóa bằng `BigDecimal`, phân định trạng thái rõ ràng qua Enum `TransactionStatus` và định dạng phản hồi chuẩn qua `TransferResponse`.
-3. **Mã nguồn Dự án:** Toàn bộ code đã được đóng gói độc lập và lưu trữ tại [GitHub Repository: IT213_Session06_BT1_PhamThanhPhong_N24DTCN120](https://github.com/IT213-PTP/IT213_Session06_BT1_PhamThanhPhong_N24DTCN120).
+
